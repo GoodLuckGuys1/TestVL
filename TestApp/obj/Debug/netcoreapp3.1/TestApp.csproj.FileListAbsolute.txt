@@ -1,0 +1,14 @@
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\Family\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\Family\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
